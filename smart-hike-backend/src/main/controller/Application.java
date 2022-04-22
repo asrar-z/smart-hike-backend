@@ -1,4 +1,4 @@
-package com.example.springboot;
+package controller;
 
 import java.util.Arrays;
 

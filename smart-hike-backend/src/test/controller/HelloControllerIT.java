@@ -1,4 +1,4 @@
-package com.example.springboot;
+package controller;
 
 import org.junit.jupiter.api.Test;
 
